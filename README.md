@@ -1,4 +1,4 @@
 # Image-caption-generation
 Given an input image, this model tries to generate captions for the image, basically a description of what's focused in that image.
 
-There will be few more versions rolling out soon for the completion of the ongoing project. New architectures will also be used for the caption generation.
+The dataset used for training is the flicker8k dataset, link :- https://www.kaggle.com/datasets/ming666/flicker8k-dataset
